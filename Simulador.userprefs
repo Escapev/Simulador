@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\JS\finSimulacion.js">
+    <Files>
+      <File FileName="Assets\JS\contadorBocina.js" Line="9" Column="42" />
+      <File FileName="Assets\JS\contadorBerma.js" Line="9" Column="42" />
+      <File FileName="Assets\OVR\Scripts\Util\OVRMainMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\OVR\Scripts\OVRManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Scripts\General Scripts\Menu_Login.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Scripts\General Scripts\Vrsimgui.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Scripts\General Scripts\Menu_Principal.cs" Line="1" Column="1" />
+      <File FileName="Assets\JS\finSimulacion.js" Line="9" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
