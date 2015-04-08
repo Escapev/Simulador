@@ -3,7 +3,7 @@ using System.Collections;
 
 public class Menu_Login : VRGUI {
 
-	string url = "http://190.160.26.167/SimVR/login.php";
+	string url = "http://190.46.7.6/SimVR/login.php";
 
 	string rut = "";
 	string password = "";
